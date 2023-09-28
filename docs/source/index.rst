@@ -51,6 +51,7 @@ Referencias a sitios web
 ************************
 
 Para ver el código fuente vaya a nuestro repositorio de `GitHub`_.
+
 .. _`Github`: https://github.com/luyska/image_compress
 
 
