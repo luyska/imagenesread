@@ -46,9 +46,9 @@ Para comprimir una imagen en la ruta /images/prueba.jpg se debería llamar a al 
    dest_path = "/images/prueba-compressed.jpg"
    compress_image(path, dest, uquality=60, uoptimize=True)
 
-***********
-Referencias
-***********
+************************
+Referencias a sitios web
+************************
 
 Para ver el código fuente vaya a nuestro repositorio de `GitHub`_.
 .. _`Github`: https://github.com/luyska/image_compress
