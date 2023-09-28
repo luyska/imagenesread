@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools", "Pillow>=10.0.1"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ImgCompressCRPython"
+version = "0.0.3"
+description = "La biblioteca que ayuda a comprimir y redimensionar imágenes"
+authors = [
+    {name="Luis Carlos Villagra", email="luiscvillagraq@gmail.com"},
+    {name="Juan Perez", email="juanp@gmail.com"},
+]
+readme = "README.md"
+requires-python = ">=3.10"
+
+[project.urls]
+"Homepage" = "https://github.com/luyska/image_compress"

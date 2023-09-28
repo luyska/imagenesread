@@ -1,0 +1,4 @@
+Pillow==10.0.1
+build==1.0.3
+twine==4.0.2
+sphinx==7.2.6

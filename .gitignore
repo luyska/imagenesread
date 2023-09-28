@@ -1,0 +1,13 @@
+env/
+*/__pycache__/
+test-compressed.jpg
+test-resized.jpg
+dist/
+src/ImgCompressCRPython.egg-info
+docs/build/*
+
+*.pyc
+
+
+
+!docs/build/index.txt
